@@ -2,7 +2,7 @@
 
 ![Snake game in cellphone](https://media.licdn.com/dms/image/D4E12AQF7tXqudSG8Dw/article-cover_image-shrink_720_1280/0/1689928524302?e=2147483647&v=beta&t=ptigIcyyOJWeXpL6yCJ5RgVRlR0LiG5TbiuhI5d6-nY)
 
-This tutorial will guide you through creating a classic Snake game using Python and its Turtle library, employing object-oriented programming (OOP) principles such as classes, inheritance, and instantiation.
+This sample code contains a classic Snake game made with Python and its Turtle library, it employs object-oriented programming (OOP) principles such as classes, inheritance, and instantiation.
 
 ## Installation
 
